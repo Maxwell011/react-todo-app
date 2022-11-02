@@ -9,7 +9,5 @@ root.render(
   <React.StrictMode>
     <App />
     <TodoContainer />
-  </React.StrictMode>
+  </React.StrictMode>,
 );
-
-
